@@ -1,0 +1,4 @@
+PyCryption is a Python program with a GUI built using wxPython, 
+which uses RSA encryption algorithms to generate simple 
+public and private keys that can be used to encrypt and decrypt 
+plain text messages. It has a clean and native user interface.
