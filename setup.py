@@ -10,7 +10,7 @@ from setuptools import setup
 APP = ['PyCryption.py']
 DATA_FILES = [
     ('images', ['images/back.png', 'images/help.png']),
-    ('about', ['about/license.txt', 'about/description.txt', 'about/logo.png']),
+    ('about', ['LICENSE', 'about/description.txt', 'about/logo.png']),
     'help.html'
 ]
 OPTIONS = {'argv_emulation': True, 'packages': 'wx', 'iconfile': 'app.icns'}
